@@ -1,0 +1,15 @@
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektForWDP1\bin\Debug\net6.0\ProjektForWDP1.exe
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektForWDP1\bin\Debug\net6.0\ProjektForWDP1.deps.json
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektForWDP1\bin\Debug\net6.0\ProjektForWDP1.runtimeconfig.json
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektForWDP1\bin\Debug\net6.0\ProjektForWDP1.dll
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektForWDP1\bin\Debug\net6.0\ProjektForWDP1.pdb
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektForWDP1\obj\Debug\net6.0\ProjektForWDP1.csproj.AssemblyReference.cache
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektForWDP1\obj\Debug\net6.0\ProjektForWDP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektForWDP1\obj\Debug\net6.0\ProjektForWDP1.AssemblyInfoInputs.cache
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektForWDP1\obj\Debug\net6.0\ProjektForWDP1.AssemblyInfo.cs
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektForWDP1\obj\Debug\net6.0\ProjektForWDP1.csproj.CoreCompileInputs.cache
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektForWDP1\obj\Debug\net6.0\ProjektForWDP1.dll
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektForWDP1\obj\Debug\net6.0\refint\ProjektForWDP1.dll
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektForWDP1\obj\Debug\net6.0\ProjektForWDP1.pdb
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektForWDP1\obj\Debug\net6.0\ProjektForWDP1.genruntimeconfig.cache
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektForWDP1\obj\Debug\net6.0\ref\ProjektForWDP1.dll
